@@ -16,3 +16,12 @@ Learn virtualization and VMware administration.
 
 - [ ] ## Lessons Learned
 To be updated after completing each exercise.
+
+## Training Environment
+
+- Host OS: Windows 11
+- Hypervisor: VMware Workstation
+- Guest OS: Windows Server 2016
+
+## Training Status
+
